@@ -384,7 +384,7 @@ footer > p {
 }
 footer .top {
 	max-height: 50%;
-	background-image: url(assets/icons/map.png);
+	background-image: url(assets/Icons/map.png);
 	background-size: cover;
 	justify-content: center;
 	align-items: center;
